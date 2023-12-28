@@ -1,4 +1,4 @@
-Q&A by LLM Model
+Q&A Chatbot by LLM Model
 - In this, we created an end-to-end conversational chatbot using Gemini Pro Free API.
 - It can also store the History so we can see it later.
   
